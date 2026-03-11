@@ -65,3 +65,7 @@ import {Component} from "path";
 - dispatch(action)
 - Selector
 
+#Types of testing(developer)
+- Unit Testing
+- Integration testing
+- End to End Testing - e2e testing
