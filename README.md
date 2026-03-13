@@ -1,6 +1,6 @@
-#Namaste React
+# Namaste React
 
-#Parcel
+# Parcel
 - Dev Build
 - Local Server
 - HMR = Hot Module Replacement
@@ -19,7 +19,7 @@
 - Tree Shaking - remove unused code
 - Different dev and prod bundles
 
-#Savora App
+# Savora App
 //Structure of the App
 // *Header
 // -Logo
@@ -47,17 +47,17 @@ import Component from "path";
 export const Component;
 import {Component} from "path";
 
-#React hooks
+# React hooks
 (Normal JS Utility functions)
 -useState() - superpowerful state variables in react
 -useEffect() - 
 
-#2 types Routing in web apps
+# 2 types Routing in web apps
 -Client Side Routing
 -Server Side Routing
 
 
-#Redux Toolkit
+# Redux Toolkit
 - Install @reduxjs/toolkit and react-redux
 - Build our store
 - Connect our store
@@ -65,7 +65,20 @@ import {Component} from "path";
 - dispatch(action)
 - Selector
 
-#Types of testing(developer)
+# Types of testing(developer)
 - Unit Testing
 - Integration testing
 - End to End Testing - e2e testing
+
+# Setting up Testing in our app
+- Installed React Testing Library
+- Installed Jest
+- Installed Babel dependencies
+- Configure Babel
+- Configure Parcel config file to disable default babel transpilation
+- Jest configuration
+- Jest : npx create-jest
+
+
+
+
